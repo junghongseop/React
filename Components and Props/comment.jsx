@@ -28,7 +28,7 @@ const style = {
     },
     commentText: {
         color: "black",
-        size: 16,
+        fontSize: 16,
     },
 }
 
