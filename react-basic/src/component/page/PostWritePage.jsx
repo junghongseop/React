@@ -25,7 +25,7 @@ const Container = styled.div`
 `;
 
 function PostWriteList(props) {
-    const navigate = useNavigate;
+    const navigate = useNavigate();
 
     const [title, setTitle] = useState("");
     const [content, setContent] = useState("");
