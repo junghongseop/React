@@ -3,6 +3,8 @@ import { useNavigate, useParams } from "react-router-dom";
 import styled from "styled-components";
 import Button from "../ui/Button";
 import TextInput from "../ui/TextInput";
+import CommentList from "../list/CommentList";
+import data from "../../data.json";
 
 const Wrapper = styled.div`
   padding: 16px;
