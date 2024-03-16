@@ -34,3 +34,5 @@ function PostList(props) {
     </Wrapper>
   );
 }
+
+export default PostList;
